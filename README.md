@@ -18,7 +18,7 @@ I'm a fullstack web and blockchain developer with experience working with fronte
 
 - 🥇 Ex-Google Student's Club Lead - Rivers State University.
 - 🥇 Blacks in Technology Chapter President - Abuja, Nigeria.
-- 🥇 Community Manager - African Blockchain Centre for Developers. -->
+- 🥇 Community Manager - African Blockchain Centre for Developers.
 
 ### Contact
 
