@@ -4,9 +4,10 @@ A fullstack web and blockchain developer with experience working with frontend, 
 
 ### Tech Stack 
 
-- ✅ React & Vue
-- ✅ Nodejs & PHP
+- ✅ React
+- ✅ Nodejs
 - ✅ Solidity
+- ✅ Haskell
 
 
 ### Badges & Certifications
