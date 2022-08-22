@@ -1,10 +1,9 @@
 ### ABOUT ME 🙂
-A fullstack web and blockchain developer with experience working with frontend, backend and blockchain smart contracts. My focus in the last few years has been to collaborate with teams to build scalable solutions both for web2 and web3. I also have a range of experience in managing projects/products, leading teams and writing technical contents
+A Product Manager & Blockchain developer with experience working with backend and blockchain smart contracts. My focus in the last few years has been to about managing product teams to build scalable solutions both for web2 and web3. I also have a range of experience in managing projects/products, leading teams and writing technical contents
 
 
 ### Tech Stack 
 
-- ✅ React
 - ✅ Nodejs
 - ✅ Solidity
 - ✅ Haskell
