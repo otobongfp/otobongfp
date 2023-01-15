@@ -4,7 +4,7 @@ A Product Manager & Blockchain developer with experience working with backend an
 
 ### Tech Stack 
 
-- ✅ Nodejs
+- ✅ ..
 - ✅ Solidity
 
 
