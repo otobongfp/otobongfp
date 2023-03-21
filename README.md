@@ -1,5 +1,5 @@
 ### ABOUT ME 🙂
-Passionate about blockchain, systems and building stuff.
+Passionate about building stuff.
 
 
 <!-- ### Tech Stack 
