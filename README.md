@@ -2,10 +2,10 @@
 Passionate about blockchain, systems and building stuff.
 
 
-### Tech Stack 
+<!-- ### Tech Stack 
 
 - ✅ some Rust
-- ✅ some Haskell
+- ✅ some Haskell -->
 
 <!-- 
 ### Badges & Certifications
