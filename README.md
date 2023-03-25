@@ -2,10 +2,10 @@
 Passionate about building stuff.
 
 
-<!-- ### Tech Stack 
+<!-- ### Tech Stack -->
 
-- ✅ some Rust
-- ✅ some Haskell -->
+Experimenting with...
+- ✅ Rust and Golang.
 
 <!-- 
 ### Badges & Certifications
