@@ -5,7 +5,7 @@ Passionate about building stuff.
 <!-- ### Tech Stack -->
 
 Experimenting with...
-✅ Rust and Golang.
+- ✅ Rust and Golang.
 
 <!-- 
 ### Badges & Certifications
