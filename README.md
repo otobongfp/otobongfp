@@ -1,5 +1,8 @@
 ### ABOUT ME 🙂
 Passionate about building stuff.
+A Product Manager by Day, An Alchemist at Night.
+In my other life I am passionate about writing, teaching and social impact.
+
 
 
 <!-- ### Tech Stack -->
