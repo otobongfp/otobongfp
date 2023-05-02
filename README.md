@@ -1,7 +1,7 @@
 ## ABOUT ME 🙂
-Passionate about building stuff.
+Passionate about building things and communities.
 ####
-A Product Manager by Day, An Alchemist at Night.
+A Community Builder.
 ####
 In my other life I am passionate about writing, teaching and social impact.
 
@@ -10,7 +10,7 @@ In my other life I am passionate about writing, teaching and social impact.
 <!-- ### Tech Stack -->
 
 ## Experimenting with...
-- ✅ Rust and Golang.
+- ✅ Rust and Solidity.
 
 <!-- 
 ### Badges & Certifications
