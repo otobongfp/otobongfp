@@ -17,7 +17,7 @@ Passionate about building things and communities.
 
 ### Other Experiences & Volunteering
 
-- 🥇 Ex-Google Student's Club Lead - Rivers State University.
+- 🥇 Ex-Google Student's Club Lead - RSU, 2020.
 - 🥇 Blacks in Technology Chapter President - Abuja, Nigeria.
 - 🥇 Community Manager - African Blockchain Centre for Developers.
 
