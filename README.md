@@ -23,6 +23,5 @@ Passionate about building things and communities.
 
 ### Contact
 
-- [LinkedIn](https://www.linkedin.com/in/otobongfp)
 - [Twitter](https://www.twitter.com/OteePeter)
 - [Medium](https://medium.com/@otobongpeter)
