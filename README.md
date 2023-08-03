@@ -2,7 +2,7 @@
 Passionate about building things and communities.
 
 ## Researching & Building...
-- ✅ I am currently tinkering with backend, blockchain, and server-side related stuff.
+- I am currently tinkering with backend, blockchain, and server-side-related stuff.
 
 ## 🛠 Languages and Tools:
 <p align="center">
