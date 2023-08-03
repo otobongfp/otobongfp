@@ -4,7 +4,7 @@ Passionate about building things and communities.
 ## Researching & Building...
 - ✅ I am currently tinkering with backend, blockchain, and server-side related stuff.
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=otobongfp)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🧰 Languages and Tools:
 <p align="center">
