@@ -1,25 +1,17 @@
-## ABOUT ME 🙂
+## Hello, I'm Otobong (Otee) 👋🏽
 Passionate about building things and communities.
 
-
-<!-- ### Tech Stack -->
-
 ## Researching & Building...
-- ✅ Backend Infrastructures.
-- ✅ Blockchain Projects and Services.
+- ✅ I am currently tinkering with backend, blockchain, and server-side related stuff.
 
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- 
-### Badges & Certifications
-
-🎯 [Emurgo Certified Ethereum Professional Developer](https://www.credly.com/badges/6ee88250-ef37-442b-a8b7-50f1e26417c3/public_url) -->
-
-
-### Other Experiences & Volunteering
-
-- 🥇 Ex-Google Student's Club Lead - RSU, 2020.
-- 🥇 Blacks in Technology Chapter President - Abuja, Nigeria.
-- 🥇 Community Manager - African Blockchain Centre for Developers.
+## 🧰 Languages and Tools:
+<p align="center">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+</p>
 
 ### Contact
 
