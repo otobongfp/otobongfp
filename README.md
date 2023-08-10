@@ -1,5 +1,5 @@
 ## Hello, I'm Otobong (Otee) 👋🏽
-Passionate about building things and communities.
+Passionate about helping people to build the world we need.
 
 ## Researching & Building...
 I am currently tinkering with Web and Blockchain Technologies.
