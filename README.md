@@ -2,7 +2,7 @@
 Passionate about helping people to build the world we need.
 
 ## Researching & Building...
-I am currently tinkering with Technologies that sustain the backbone of our civilization. Web, Blockchain & Distributed Systems, Networks, Cloud & DevOps.
+I am currently tinkering with Technologies that sustain the backbone of our civilization. Web, Blockchain and the Cloud.
 
 ## 🛠 Languages and Tools:
 <p align="center">
