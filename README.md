@@ -2,7 +2,7 @@
 Passionate about helping people to build the world we need.
 
 ## Researching & Building...
-I am currently tinkering with Technologies that sustain the backbone of our civilization. Web, Blockchain and the Cloud.
+Web, Blockchain, and the Cloud. Interested in how technology can improve finance, climate and human conditions.
 
 ## 🛠 Languages and Tools:
 <p align="center">
