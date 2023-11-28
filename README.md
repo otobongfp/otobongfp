@@ -1,8 +1,8 @@
 ## Hello, I'm Otobong (Otee) 👋🏽
-Passionate about helping people to build the world we need.
+Passionate about building stuff.
 
 ## Researching & Building...
-On the Web and on-chain. Interested in how technology can improve finance, climate and human conditions.
+Interested in how technology can improve finance, climate and human conditions. Working closely with Python, Javascript and Rust.
 
 ## 🛠 Languages and Tools:
 <p align="center">
