@@ -13,7 +13,7 @@ A systems craftsman, passionate about solving problems.
 - Name: Otobong
 - 🙂 He/Him/Male/Man
 - ✉️ Email: hello@otobongpeter.com
-- ⚡️ Fun fact: The real name for a hashtag is an octothorpe. 'octo' for is 8 tips, but no once knows the origin of 'thorpe'.
+- ⚡️ Fun fact: A jiffy is an actual unit of time. It's 1/100th of a second.
 
 ---
 
