@@ -1,12 +1,66 @@
 ## Hello, I'm Otobong (Otee) 👋🏽
-Passionate about building stuff. Currently tinkering with Js, Python and Rust;
-In another universe I'm an aspiring quant;
 
-## Researching & Building...
-Interested in how technology can improve our world.
-Email: hello@otobongpeter.com
+[![Twitter Badge](https://img.shields.io/twitter/follow/builder1024)](https://twitter.com/builder1024)
 
-### Contact
+A systems craftsman, passionate about solving problems.
 
-- [Twitter](https://www.twitter.com/OteePeter)
+## 🎯 My Goal
+
+My goal is to understand how things work deeply and hopefully contribute to and improve existing systems.
+
+## 💬 Details
+
+- Name: Otobong
+- 🙂 He/Him/Male/Man
+- Email: hello@otobongpeter.com
+- ⚡️ Fun fact: The real name for a hashtag is an octothorpe. 'octo' for is 8 tips, but no once knows the origin of 'thorpe'.
+
+---
+
+## 🌡️ Experience
+
+| Company            |             Role             | Employment Type |       Duration       |
+| :----------------- | :--------------------------: | :-------------: | :------------------: |
+| Atopet Automations |            Intern            |    Full-Time    | Apr 2019 - Sept 2019 |
+| ABCD Technologies  | Product Lead/ Software Engr. |    Full-Time    | Aug 2021 - Mar 2023  |
+| Ukemey Inc         |        Software Engr.        |    Contract     | Aug 2023 - Dec 2023  |
+
+---
+
+## ⚙️ I'm currently working on
+
+- Building tools and products to address real-world problems.
+
+---
+
+## 📕 Articles I have written
+
 - [Medium](https://medium.com/@otobongpeter)
+
+#### Programming Languages
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,powershell,python,typescript,js,golang,rust" />
+  </a>
+</p>
+
+#### OS Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian" />
+  </a>
+</p>
+
+#### Project Management Stack
+
+<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="git" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" title="github" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="bitbucket" title="bitbucket" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" title="jira" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello" title="trello" width="40" height="40"/></p>
+
+#### Fav Editor / IDE
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,sublime" />
+  </a>
+</p>
