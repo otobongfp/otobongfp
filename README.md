@@ -45,6 +45,14 @@ A systems craftsman, passionate about solving problems.
   </a>
 </p>
 
+#### Frameworks
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,next,nest,express,actix,rocket,django" />
+  </a>
+</p>
+
 #### OS Stack
 
 <p align="center">
