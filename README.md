@@ -12,7 +12,7 @@ A systems craftsman, passionate about solving problems.
 
 - Name: Otobong
 - 🙂 He/Him/Male/Man
-- Email: hello@otobongpeter.com
+- ✉️ Email: hello@otobongpeter.com
 - ⚡️ Fun fact: The real name for a hashtag is an octothorpe. 'octo' for is 8 tips, but no once knows the origin of 'thorpe'.
 
 ---
