@@ -41,7 +41,7 @@ A systems craftsman, passionate about solving problems.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,python,typescript,js,golang,rust" />
+    <img src="https://skillicons.dev/icons?i=bash,python,typescript,js,python,rust" />
   </a>
 </p>
 
