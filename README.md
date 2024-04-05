@@ -6,7 +6,8 @@ A systems craftsman, passionate about solving problems.
 
 ## 🎯 Goal
 
-- To understand how things work deeply and hopefully contribute to and improve existing systems.
+- To understand how things work deeply.
+- Build, contribute to and improve existing systems.
 
 ## 💬 Details
 
