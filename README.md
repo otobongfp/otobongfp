@@ -46,11 +46,11 @@ A systems craftsman, passionate about solving problems.
   </a>
 </p>
 
-#### Frameworks
+#### Frameworks/Runtime
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,react,next,nest,express,actix,rocket,django" />
+    <img src="https://skillicons.dev/icons?i=node,react,next,nest,express,actix,rocket,django" />
   </a>
 </p>
 
