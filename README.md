@@ -50,7 +50,7 @@ A systems craftsman, passionate about solving problems.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=node,react,next,nest,express,actix,rocket,django" />
+    <img src="https://skillicons.dev/icons?i=nodejs,react,next,nest,express,actix,rocket,django" />
   </a>
 </p>
 
