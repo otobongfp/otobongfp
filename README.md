@@ -42,7 +42,7 @@ A systems craftsman, passionate about solving problems.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,typescript,js,python,rust" />
+    <img src="https://skillicons.dev/icons?i=bash,typescript,js,python,rust,go" />
   </a>
 </p>
 
@@ -50,7 +50,7 @@ A systems craftsman, passionate about solving problems.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,react,nest,express,actix,django" />
+    <img src="https://skillicons.dev/icons?i=nodejs,react,nest,express,angular" />
   </a>
 </p>
 
