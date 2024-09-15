@@ -7,7 +7,7 @@ A systems craftsman, passionate about solving problems.
 ## 🎯 Goal
 
 - To understand how things work deeply.
-- Build large systems end-to-end from the client, apis and the infrastructure(cloud, devops, security, etc.).
+- Build large systems end-to-end from the client, apis and the infrastructure(cloud, devops, network, security, etc.).
 
 ## 💬 Details
 
