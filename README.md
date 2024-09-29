@@ -78,6 +78,6 @@ A systems craftsman, passionate about solving problems.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,sublime" />
+    <img src="https://skillicons.dev/icons?i=vscode,neovim" />
   </a>
 </p>
