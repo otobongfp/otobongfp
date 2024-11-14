@@ -28,9 +28,10 @@ A systems craftsman, passionate about solving problems.
 
 ---
 
-## ⚙️ I'm currently working on
+## ⚙️ I'm currently...
 
-- Building tools and products to address real-world problems.
+- Building products that address real-world problems.
+- Building tools and platforms that enable people/organizations scale their work.
 
 ---
 
