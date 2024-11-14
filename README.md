@@ -18,13 +18,13 @@ A systems craftsman, passionate about solving problems.
 
 ---
 
-## 🌡️ Experience
+<!-- ## 🌡️ Experience -->
 
-| Company            |             Role             | Employment Type |       Duration       |
+<!-- | Company            |             Role             | Employment Type |       Duration       |
 | :----------------- | :--------------------------: | :-------------: | :------------------: |
 | Atopet Automations |            Intern            |    Full-Time    | Apr 2019 - Sept 2019 |
 | ABCD Technologies  | Product Lead/ Software Engr. |    Full-Time    | Aug 2021 - Mar 2023  |
-| Ukemey Inc         |        Software Engr.        |    Contract     | Aug 2023 - Dec 2023  |
+| Ukemey Inc         |        Software Engr.        |    Contract     | Aug 2023 - Dec 2023  | -->
 
 ---
 
@@ -70,9 +70,11 @@ A systems craftsman, passionate about solving problems.
   </a>
 </p>
 
-#### Project Management Stack
+#### Cloud/DevOps/
 
-<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="git" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" title="github" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" title="jira" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello" title="trello" width="40" height="40"/></p>
+<p align="center"><a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,git,docker,kubernetes" />
+  </a></p>
 
 #### Fav Editor / IDE
 
