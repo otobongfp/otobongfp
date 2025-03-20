@@ -1,6 +1,6 @@
 ## Hello, I'm Otobong (Otee) 👋🏽
 
-[![Twitter Badge](https://img.shields.io/twitter/follow/builder1024)](https://twitter.com/builder1024)
+[![Twitter Badge](https://img.shields.io/twitter/follow/builder1024)](https://twitter.com/OtobongFP)
 
 A systems craftsman, passionate about solving problems.
 
