@@ -2,9 +2,9 @@
 
 [![Twitter Badge](https://img.shields.io/twitter/follow/OtobongFP)](https://twitter.com/OtobongFP)
 
-A systems craftsman, passionate about solving problems.
+A systems craftsman, passionate about solving problems. Fullstack Software and Blockchain Engineer.
 
-## 🎯 Goal
+<!-- ## 🎯 Goal
 
 - To understand how things work deeply.
 - Build large systems end-to-end from the client, apis and the infrastructure(cloud, devops, network, security, etc.).
@@ -18,13 +18,13 @@ A systems craftsman, passionate about solving problems.
 
 ---
 
-<!-- ## 🌡️ Experience -->
+## 🌡️ Experience
 
 <!-- | Company            |             Role             | Employment Type |       Duration       |
 | :----------------- | :--------------------------: | :-------------: | :------------------: |
 | Atopet Automations |            Intern            |    Full-Time    | Apr 2019 - Sept 2019 |
 | ABCD Technologies  | Product Lead/ Software Engr. |    Full-Time    | Aug 2021 - Mar 2023  |
-| Ukemey Inc         |        Software Engr.        |    Contract     | Aug 2023 - Dec 2023  | -->
+| Ukemey Inc         |        Software Engr.        |    Contract     | Aug 2023 - Dec 2023  |
 
 ---
 
@@ -83,4 +83,4 @@ A systems craftsman, passionate about solving problems.
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,neovim" />
   </a>
-</p>
+</p> -->
