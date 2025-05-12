@@ -2,12 +2,12 @@
 
 [![Twitter Badge](https://img.shields.io/twitter/follow/OtobongFP)](https://twitter.com/OtobongFP)
 
-A systems craftsman, passionate about solving problems. Fullstack Software and Blockchain Engineer.
+A systems craftsman, passionate about solving problems. Fullstack Software, Blockchain Engineer and Security Researcher.
 
 <!-- ## 🎯 Goal
 
 - To understand how things work deeply.
-- Build large systems end-to-end from the client, apis and the infrastructure(cloud, devops, network, security, etc.).
+- Build large systems end-to-end from the client, apis and the infrastructure.
 
 ## 💬 Details
 
