@@ -2,8 +2,8 @@
 
 [![Twitter Badge](https://img.shields.io/twitter/follow/OtobongFP)](https://twitter.com/OtobongFP)
 
-A systems craftsman, passionate about solving problems.
-I am a Fullstack Software Engineer - Blockchain Engineer - Software Security and Smart Security Researcher - Devops Kingpin - AI Engineer
+I'm a Fullstack Software Engineer with deep expertise in Blockchain, AI, Software Security, and DevOps.
+I craft resilient systems, explore protocol-level security, and love bringing ideas to life — from frontend to kernel.
 
 <!-- ## 🎯 Goal
 
