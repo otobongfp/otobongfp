@@ -2,12 +2,13 @@
 
 [![Twitter Badge](https://img.shields.io/twitter/follow/OtobongFP)](https://twitter.com/OtobongFP)
 
-A systems craftsman, passionate about solving problems. Fullstack Software, Blockchain Engineer and Security Researcher.
+A systems craftsman, passionate about solving problems.
+I am a Fullstack Software Engineer - Blockchain Engineer - Software Security and Smart Security Researcher - Devops Kingpin - AI Engineer
 
 <!-- ## 🎯 Goal
 
-- To understand how things work deeply.
-- Build large systems end-to-end from the client, apis and the infrastructure.
+- To understand how things work deeply across complex systems.
+- Build large systems end-to-end from the client, apis, infrastructure, all with a security-first approach.
 
 ## 💬 Details
 
@@ -25,6 +26,7 @@ A systems craftsman, passionate about solving problems. Fullstack Software, Bloc
 | Atopet Automations |            Intern            |    Full-Time    | Apr 2019 - Sept 2019 |
 | ABCD Technologies  | Product Lead/ Software Engr. |    Full-Time    | Aug 2021 - Mar 2023  |
 | Ukemey Inc         |        Software Engr.        |    Contract     | Aug 2023 - Dec 2023  |
+| LTO Network        |        Snr. Software Engr.   |    Full-Time    | Apr 2024 - Present   |
 
 ---
 
