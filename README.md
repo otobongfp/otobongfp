@@ -1,8 +1,8 @@
-## Hello, I'm Otobong (Otee) 👋🏽
+## Hello, I'm Otobong Peter (Otee) 👋🏽
 
 [![Twitter Badge](https://img.shields.io/twitter/follow/OtobongFP)](https://twitter.com/OtobongFP)
 
-I'm a Fullstack Software Engineer with deep expertise in Blockchain, AI, Software Security, and DevOps.
+I'm a Fullstack Software Engineer with expertise across Blockchain, AI applications, Software Security and DevOps.
 I craft resilient systems, explore protocol-level security, and love bringing ideas to life — from frontend to kernel.
 
 <!-- ## 🎯 Goal
