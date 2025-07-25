@@ -1,7 +1,7 @@
 ## Hello, I'm Otobong Peter (Otee) 👋🏽
 
 [![Twitter Badge](https://img.shields.io/twitter/follow/OtobongFP)](https://twitter.com/OtobongFP)
-[![Website Badge](https://img.shields.io/badge/Website-otobong.me-blue?style=flat-square&logo=firefox-browser)](https://otobongfp.com)
+[![Website Badge](https://img.shields.io/badge/Website-otobongfp.com-blue?style=flat-square&logo=firefox-browser)](https://otobongfp.com)
 
 I'm a Senior Software Engineer with expertise across Blockchain, AI applications, Software Security and DevOps.
 I craft resilient systems, explore protocol-level security, and love bringing ideas to life — from frontend to kernel.
