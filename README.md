@@ -6,7 +6,7 @@
 
 
 I'm a Senior Software Engineer with expertise spanning Blockchain Technology, AI applications, Software Security, and DevOps.
-I craft resilient systems, explore protocol-level security, and love bringing ideas to life — from frontend to kernel.
+I craft resilient systems, explore protocol-level problems, and love bringing ideas to life, from user interfaces to the kernel.
 
 <!-- ## 🎯 Goal
 
