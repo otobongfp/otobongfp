@@ -5,8 +5,7 @@
 [![Twitter Badge](https://img.shields.io/twitter/follow/OtobongFP)](https://twitter.com/OtobongFP)
 
 
-I'm a Senior Software Engineer with expertise spanning Blockchain, Platforms & Product Engineering.
-I craft resilient systems, explore protocol-level problems, and love bringing ideas to life, from user interfaces to the kernel.
+I'm a Senior Software Engineer with expertise spanning AI, Distributed Systems & Product Engineering/Management.
 
 <!-- ## 🎯 Goal
 
