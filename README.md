@@ -5,7 +5,7 @@
 [![Twitter Badge](https://img.shields.io/twitter/follow/OtobongFP)](https://twitter.com/OtobongFP)
 
 
-I'm a Senior Software Engineer with expertise spanning AI, Distributed Systems & Product Engineering/Management.
+I'm a Senior Software Engineer with expertise in Backend & Distributed Systems.
 
 <!-- ## 🎯 Goal
 
