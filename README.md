@@ -5,7 +5,7 @@
 [![Twitter Badge](https://img.shields.io/twitter/follow/OtobongFP)](https://twitter.com/OtobongFP)
 
 
-I'm a Senior Software Engineer with expertise in Backend & Distributed Systems.
+I'm a Senior Software Engineer with expertise in Backend & Distributed Systems. Mostly tinkering with Typescript, Rust & Python.
 
 <!-- ## 🎯 Goal
 
