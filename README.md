@@ -5,6 +5,6 @@
 [![Twitter Badge](https://img.shields.io/twitter/follow/OtobongFP)](https://twitter.com/OtobongFP)
 
 
-I'm a Fullstack Software Engineer with expertise across Web, Distributed Systems, Blockchain & AI.
+I'm a Fullstack Software & Blockchain Engineer with expertise across Web, Distributed Systems, Blockchain & AI.
 
 More recently, I've been making bold experiments across developer tooling, health, education & figuring out how to bring real-world assets on-chain. 
