@@ -7,4 +7,4 @@
 
 I'm a Software & Blockchain Engineer with expertise across Web, Distributed Systems, Blockchain & AI.
 
-More recently, I've been making bold experiments across developer tooling, health, education & figuring out how to bring real-world assets on-chain. 
+More recently, I've been making bold experiments across developer tooling, health, finance & figuring out how to bring real-world assets on-chain. 
