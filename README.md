@@ -5,4 +5,4 @@
 [![Twitter Badge](https://img.shields.io/twitter/follow/OtobongFP)](https://twitter.com/OtobongFP)
 
 
-I'm a Senior Software Engineer with experience across blockchain, finance & health products.
+I'm a Senior Software Engineer with experience in designing complex systems across domains where critical problems are being solved.
