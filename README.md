@@ -8,3 +8,4 @@
 I'm an Engineer focused on building reliable systems that solve complex & high-impact problems. Tinkering with Typescript, Golang, Rust & Python.
 
 **Email ✉️:** [hello@otobongfp.com](mailto:hello@otobongfp.com)
+**Website:** [otobongfp.com](https://otobongfp.com)
