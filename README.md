@@ -5,7 +5,7 @@
 [![Twitter Badge](https://img.shields.io/twitter/follow/OtobongFP)](https://twitter.com/OtobongFP)
 -->
 
-I'm an Engineer focused on building reliable systems that solve complex & high-impact problems. Tinkering with Typescript, Golang, Rust & Python.
+I'm a Fullstack & Systems Engineer focused on building reliable systems that solve complex & high-impact problems. Tinkering with Typescript, Golang, Rust & Python.
 
-**Email ✉️:** [hello@otobongfp.com](mailto:hello@otobongfp.com)
+**Email ✉️:** [hello@otobongfp.com](mailto:hello@otobongfp.com)<br>
 **Website:** [otobongfp.com](https://otobongfp.com)
