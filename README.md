@@ -1,4 +1,4 @@
-## Hello, I'm Otobong Peter (some people just call me Otee) 👋🏽
+## Hello, I'm Otobong (some people call me Otee or O.T) 👋🏽
 
 <!-- [![Website Badge](https://img.shields.io/badge/Website-otobongfp.com-blue?style=flat-square&logo=firefox-browser)](https://otobongfp.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Otobong-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/otobongfp/)
